@@ -1,0 +1,12 @@
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\bin\Release\Equipo.exe.config
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\bin\Release\Equipo.exe
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\bin\Release\Equipo.pdb
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\bin\Release\MySql.Data.dll
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.csprojAssemblyReference.cache
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.Equipo.resources
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.Properties.Resources.resources
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.csproj.GenerateResource.cache
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.csproj.CoreCompileInputs.cache
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.csproj.CopyComplete
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.exe
+C:\Users\Robert-Dell\Desktop\Equipo\Equipo\obj\Release\Equipo.pdb
